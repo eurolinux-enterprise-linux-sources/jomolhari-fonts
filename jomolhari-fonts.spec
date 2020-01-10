@@ -3,7 +3,7 @@
 
 Name:		%{fontname}-fonts
 Version:	0.003
-Release:	16%{?dist}
+Release:	17%{?dist}
 Summary:	Jomolhari a Bhutanese style font for Tibetan and Dzongkha
 
 Group:		User Interface/X
@@ -53,6 +53,9 @@ done
 %doc FONTLOG.txt OFL-FAQ.txt OFL.txt
 
 %changelog
+* Fri Dec 27 2013 Daniel Mach <dmach@redhat.com> - 0.003-17
+- Mass rebuild 2013-12-27
+
 * Thu Feb 14 2013 Fedora Release Engineering <rel-eng@lists.fedoraproject.org> - 0.003-16
 - Rebuilt for https://fedoraproject.org/wiki/Fedora_19_Mass_Rebuild
 
